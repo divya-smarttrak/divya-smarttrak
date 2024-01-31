@@ -2,7 +2,7 @@
 - 👀 I’m interested in GenAI & other AI technologies
 - 🌱 I’m currently learning Time Series Analysis
 - 💞️ I’m looking to collaborate on Advanced GenAI architectures
-- 📫 To reach me, just search divyagupt2002
+- 📫 To reach me, just search divyagupta2002
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love cyberpunk2077
 
