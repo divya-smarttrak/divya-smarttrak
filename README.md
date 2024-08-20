@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Divya Gupta
 - 👀 I’m interested in GenAI & other AI technologies
-- 🌱 I’m currently learning Time Series Analysis
+- 🌱 I’m currently learning Reinforcement learning
 - 💞️ I’m looking to collaborate on Advanced GenAI architectures
 - 📫 To reach me, just search divyagupta2002
 - 😄 Pronouns: He/Him
